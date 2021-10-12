@@ -1,0 +1,21 @@
+{
+  "name": "holidays",
+  "bin": "./index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "country-list": "^2.2.0",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SporoZoite/holidays-cli.git"
+  },
+  "author": "SporoZoite",
+  "license": "MIT"
+}
