@@ -5,7 +5,7 @@
 
 //update package.json:
 //{
-//    "name": "create-p5-boilerplate",
+//    "name": "holidays",
 //    "bin": "./index.js",
 //    ...
 //  }
